@@ -2,7 +2,7 @@
 
 **Turning Employee Data into Actionable HR Insights**
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an HR Analytics Dashboard built using Microsoft Excel to transform employee data into clear, meaningful, and actionable insights.
 
@@ -16,11 +16,11 @@ This dashboard provides HR with a visual and interactive way to analyze employee
 
 The Dashboard Overview provides a high-level summary of the organization's workforce using key HR metrics and visualizations.
 
-**📸 Dashboard Screenshot**
+** Dashboard Screenshot**
 
 ![Dashboard Overview](./screenshots/dashboard-overview.png)
 
-### 💡 Why HR Needs This
+###  Why HR Needs This
 
 HR managers need a quick way to understand the overall state of their workforce without manually going through large employee datasets.
 
@@ -40,11 +40,11 @@ This makes the dashboard a starting point for HR decision-making.
 
 The Employees section provides an analysis of the organization's employee population and workforce characteristics.
 
-**📸 Employees Dashboard Screenshot**
+** Employees Dashboard Screenshot**
 
 ![Employees Dashboard](./screenshots/employees-dashboard.png)
 
-### 💡 Why HR Needs This
+###  Why HR Needs This
 
 Employee data is at the center of HR operations.
 
@@ -66,11 +66,11 @@ Instead of viewing employees as individual rows in a spreadsheet, HR can use the
 
 The Salary section analyzes employee compensation and salary patterns within the organization.
 
-**📸 Salary Dashboard Screenshot**
+** Salary Dashboard Screenshot**
 
 ![Salary Dashboard](./screenshots/salary-dashboard.png)
 
-### 💡 Why HR Needs This
+###  Why HR Needs This
 
 Salary information is an important part of workforce management and organizational budgeting.
 
@@ -92,11 +92,11 @@ By visualizing salary information, HR can move beyond individual salary records 
 
 The Department section analyzes how employees are distributed across different departments.
 
-**📸 Department Dashboard Screenshot**
+** Department Dashboard Screenshot**
 
 ![Department Dashboard](./screenshots/department-dashboard.png)
 
-### 💡 Why HR Needs This
+###  Why HR Needs This
 
 Different departments have different workforce requirements.
 
@@ -118,11 +118,11 @@ For example, if one department has significantly more employees than another, HR
 
 The Performance section provides insights into employee performance within the organization.
 
-**📸 Performance Dashboard Screenshot**
+** Performance Dashboard Screenshot**
 
 ![Performance Dashboard](./screenshots/performance-dashboard.png)
 
-### 💡 Why HR Needs This
+###  Why HR Needs This
 
 Employee performance is an important factor in understanding organizational effectiveness.
 
