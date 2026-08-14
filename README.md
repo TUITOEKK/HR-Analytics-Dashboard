@@ -161,7 +161,6 @@ Raw Employee Data
 
 # 🎯 Key Takeaway
 
-This project demonstrates how **HR employee data into an interactive analytics dashboard.**
 
 The five dashboard sections provide different perspectives of the workforce:
 
